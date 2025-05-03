@@ -1,2 +1,0 @@
-How to run the programs?
-Type command "python hotelling_<pure/mix>.py <number of dimensions> <number of locations> <number of players> <consumerdata file>.xlsx"
