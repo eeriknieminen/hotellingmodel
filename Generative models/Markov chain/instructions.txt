@@ -1,0 +1,7 @@
+How to run the programs?
+
+Train the model:
+Type command "python hotelling_markov_training.py <datafile>.txt <datasetlength> <modelfile>.txt"
+
+Generate sentences:
+Type command "python hotelling_markov_generation.py <modelfile>.txt <sentencelength>"
