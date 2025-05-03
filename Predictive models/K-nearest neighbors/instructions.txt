@@ -1,0 +1,4 @@
+How to run the program?
+
+Classify data:
+Type command "python knn.py <trainingdata>.xlsx <predictiondata>.xlsx <k>"
