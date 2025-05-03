@@ -1,0 +1,2 @@
+# hotellingmodel
+Hotelling model
