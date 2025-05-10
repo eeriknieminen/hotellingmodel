@@ -1,0 +1,2 @@
+How to run the program?
+Type command "python revpref.py <data file>.xlsx"
