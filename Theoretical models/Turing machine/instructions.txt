@@ -1,0 +1,2 @@
+How to run the program?
+Type command "python turing.py <tape file>.xlsx <program file>.xlsx"
