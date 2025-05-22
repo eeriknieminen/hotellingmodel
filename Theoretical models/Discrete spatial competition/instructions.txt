@@ -1,0 +1,2 @@
+How to run the programs?
+Type command "python <pure/mixed>.py <number of dimensions> <number of locations> <number of players> <data file>.xlsx"
